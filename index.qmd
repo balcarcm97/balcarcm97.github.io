@@ -1,4 +1,19 @@
 ---
 title: "Mel Balcarcel Arias"
 image: IMG_2517.jpeg
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 30em
+  links: 
+    - text: linkedIn
+      href: //www.linkedin.com/in/mel-balcarcel-arias-36326434a/
+    - text: Email
+      href: //balcarcm@colostate.edu
+---
+
+**About Me:**
+
+I am an Air Force veteran who transitioned from working on nuclear weapons to studing ecosystem science.
+
 ---
