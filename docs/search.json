@@ -12,5 +12,12 @@
     "title": "Mel Balcarcel Arias",
     "section": "",
     "text": "About Me:\nI am an Air Force veteran who transitioned from working on nuclear weapons to studing ecosystem science."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "—",
+    "section": "",
+    "text": "—\ntitle: “Resume”\nimage: resume.png about: template: jolla image-shape: rectangle image-width: 30em"
   }
 ]
