@@ -1,5 +1,6 @@
 ---
-title: "balcarcm97.github.io"
+title: "Mel Balcarcel Arias"
+image: IMG_2517.jpeg
 ---
 
 This is a Quarto website.
