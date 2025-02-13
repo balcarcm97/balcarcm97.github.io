@@ -19,5 +19,12 @@
     "title": "—",
     "section": "",
     "text": "—\ntitle: “Resume”\nimage: resume.png about: template: jolla image-shape: rectangle image-width: 30em"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "For one of my classes I wrote a popular science article that talked about the potential application of soundscape ecology to gauge future birdsong environments"
   }
 ]

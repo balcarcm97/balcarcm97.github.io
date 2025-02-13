@@ -1,0 +1,10 @@
+---
+title: "Projects"
+format: html
+about:
+  template: jolla
+  links:
+    - text: Using Virtual Birds to Predict the Sounds of Tomorrow
+      href: https://drive.google.com/file/d/162tcAJhzaY_KTt_RbkFRE9Hl7Xb9VBvm/view?usp=sharing
+---
+For one of my classes I wrote a popular science article that talked about the potential application of soundscape ecology to gauge future birdsong environments
